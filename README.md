@@ -23,3 +23,7 @@ cd meu-projeto-estoque
 
 # Inicie o servidor
 python manage.py runserver
+```
+## 💻 Projeto
+O SGE é um sistema de gestão de estoque focado em simplicidade e eficiência.
+
