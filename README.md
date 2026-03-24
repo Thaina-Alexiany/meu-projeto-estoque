@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Dashboard do Projeto" src="dashboard.png" width="100%">
+  <img alt="Dashboard do Projeto" src="dashboard.png.png" width="100%">
 </p>
 
 ## 🧪 Tecnologias
